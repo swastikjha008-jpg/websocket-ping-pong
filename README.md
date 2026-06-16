@@ -128,7 +128,4 @@ Add your screenshot here:
 ---
 
 ## 👨‍💻 Author
-
 **Swastik Jha**
-
-Learning **Full Stack Development, DevOps, Blockchain & Web3** 🚀
