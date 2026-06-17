@@ -94,17 +94,6 @@ ping
 ```txt
 pong
 ```
-
----
-
-## 📸 Demo
-
-Add your screenshot here:
-
-```md
-![WebSocket Test](./assets/websocket-postman-test.png)
-```
-
 ---
 
 ## 🧠 What I Learned
@@ -114,16 +103,6 @@ Add your screenshot here:
 * Handling connection and message events
 * Setting up a WebSocket server with `ws`
 * Testing WebSockets using Postman
-
----
-
-## 🔮 Future Improvements
-
-* Build a frontend UI
-* Real-time chat application
-* Multiple client support
-* User rooms/channels
-* Better message handling
 
 ---
 
